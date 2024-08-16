@@ -152,7 +152,7 @@ export const education = [
     school: "FIITJEE Junior College",
     date: "Jun 2019 - Apr 2021",
     grade: "94.6%",
-    desc: "I completed my class 12 high school education at FITTJEE Junior College, Hyderabad, where I studied Science with Computer Science.",
+    desc: "I completed my class 12 high school education at FITTJEE Junior College, Hyderabad, where I studied Science (MPC).",
     degree: "TSBIE Intermediate",
   },
 ];
